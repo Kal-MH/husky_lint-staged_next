@@ -1,0 +1,1 @@
+# husky_lint-staged_next
